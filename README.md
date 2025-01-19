@@ -99,5 +99,3 @@
 ---
 
 **所看皆可爬**
-
-[<img src="https://api.gitsponsors.com/api/badge/img?id=511999568" height="20">](https://api.gitsponsors.com/api/badge/link?p=ehcc/9pogQa9pP5xHeIZaHXdvLKeE56XFTRpZUNud8sD9Dt0VdRGeRD8A4ekZJtQ)
